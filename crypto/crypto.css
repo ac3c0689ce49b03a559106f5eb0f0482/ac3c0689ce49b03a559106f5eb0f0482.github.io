@@ -36,7 +36,7 @@ h6{
 }
 
 p{
-  color:rgb(50, 50, 255);
+  color:rgb(37, 88, 255);
 }
 
 .cryptx{
@@ -46,4 +46,21 @@ p{
 
 label{
   color: rgb(0, 196, 186);
+}
+
+hr.dashed {
+  border-top: 3px dashed  rgb(86, 201, 255);
+}
+
+hr.dotted {
+  border-top: 3px dotted #8efc5a;
+}
+
+hr.solid {
+  border-top: 3px solid #bbb;
+}
+
+hr.rounded {
+  border-top: 8px solid rgb(160, 255, 36);
+  border-radius: 5px;
 }
